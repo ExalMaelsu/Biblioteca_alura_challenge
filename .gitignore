@@ -1,0 +1,32 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled bytecode
+/target/
+/build/
+
+# Logs
+/logs/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven specific
+log/
+target/
+mvnw
+mvnw.cmd
+.idea/
+
+# Gradle specific
+.gradle/
+build/
+
+# OS-specific
+.DS_Store
+Thumbs.db
